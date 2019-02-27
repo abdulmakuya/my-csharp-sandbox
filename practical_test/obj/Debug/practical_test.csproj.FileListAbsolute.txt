@@ -1,0 +1,6 @@
+c:\users\ali abdulla\documents\visual studio 2015\Projects\practical_test\practical_test\bin\Debug\practical_test.exe.config
+c:\users\ali abdulla\documents\visual studio 2015\Projects\practical_test\practical_test\bin\Debug\practical_test.exe
+c:\users\ali abdulla\documents\visual studio 2015\Projects\practical_test\practical_test\bin\Debug\practical_test.pdb
+c:\users\ali abdulla\documents\visual studio 2015\Projects\practical_test\practical_test\obj\Debug\practical_test.csprojResolveAssemblyReference.cache
+c:\users\ali abdulla\documents\visual studio 2015\Projects\practical_test\practical_test\obj\Debug\practical_test.exe
+c:\users\ali abdulla\documents\visual studio 2015\Projects\practical_test\practical_test\obj\Debug\practical_test.pdb
