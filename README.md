@@ -7,4 +7,5 @@ for csharp grammar and logic.
 
 Method invokation by ref.  
 Method invokation by value.  
+Method invokation by out.  
 
