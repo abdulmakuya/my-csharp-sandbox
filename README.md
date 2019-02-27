@@ -13,3 +13,7 @@ Method invokation by out.
 Inheritance and Polymorphism.  
 Concept and example
 
+
+
+Get and Set.
+
