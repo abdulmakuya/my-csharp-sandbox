@@ -9,3 +9,7 @@ Method invokation by ref.
 Method invokation by value.  
 Method invokation by out.  
 
+
+Inheritance and Polymorphism.  
+Concept and example
+
