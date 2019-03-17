@@ -20,7 +20,7 @@ Concept and example.
 function overloading.  
 Drawing shapes in cpp.   
 homemade text-editor.   
-Vema shop - Desktop  app for
+Vema shop - Desktop  app for shops
 
 
 
